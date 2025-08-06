@@ -19,8 +19,12 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xiangfeidexiaohuo/Proxmo
 ```
 ![png](./pic/56.png)
 
+***
 
 - **PVE8 升 PVE9：**
+
+<details>
+<summary>点击展开，查看详细教程！</summary>
 
 - 1、已换源的情况下，运行以下两行命令：（若未换源，运行上面的一键命令先换源。）
 ```
@@ -46,6 +50,7 @@ apt dist-upgrade
 reboot
 ```
 
+</details>
 
 ***
 ***
