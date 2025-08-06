@@ -17,22 +17,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xiangfeidexiaohuo/Proxmo
 ```
 ![png](./pic/56.png)
 
-- **Ceph 源：**
-
-- PVE7：
-```
-echo "deb https://mirrors.tuna.tsinghua.edu.cn/proxmox/debian/ceph-quincy bullseye main" > /etc/apt/sources.list.d/ceph.list
-```
-
-- PVE8：
-```
-echo "deb https://mirrors.tuna.tsinghua.edu.cn/proxmox/debian/ceph-quincy bookworm main" > /etc/apt/sources.list.d/ceph.list
-```
-
-- PVE9：
-```
-echo "deb https://mirrors.tuna.tsinghua.edu.cn/proxmox/debian/ceph-squid trixie no-subscription" > /etc/apt/sources.list.d/ceph.list
-```
 
 ***
 ***
